@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".kacchiFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/hydrabadi"
+        android:orientation="vertical">
+
+
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="হায়দ্রাবাদি বিরিয়ানি "
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        >
+
+    </TextView>
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="হায়দ্রাবাদি বিরিয়ানি যেভাবে তৈরি করবেন- উপকরণ: খাসির মাংস ৫০০ গ্রাম, বাসমতি চাল ৫০০ গ্রাম, টকদই ৩ টেবিল চামচ, গোল করে আলু ভাজা ২ টি, তিনটি পেঁয়াজের বেরেস্তা, হলুদ গুঁড়ো আধা টেবিল চামচ, মরিচ গুঁড়ো আধা টেবিল চামচ, ঘি ২ টেবিল চামচ, রসুন আদা বাটা ২ টেবিল চামচ, পরিমাণমতো লবণ, পুদিনা পাতা আন্দাজমতো, ২ টেবিল চামচ তেল বা ঘি
+বিরিয়ানি মসলার উপকরণ: শাহি জিরা ১ টেবিল চামচ, দারুচিনি ৪ টি, এলাচি ৫ টি, লবঙ্গ ৪ টি, মৌরি ১ টেবিল চামচ,
+বিরিয়ানি মসলার প্রণালি:
+সবকিছু তেল ছাড়া ভেজে নিয়ে গুঁড়ো করে নিন।
+
+বিরিয়ানির প্রণালি:
+-মাংসকে গরমমসলা, দই, আদা-রসুন বাটা, আলু বোখারা ও তেল দিয়ে ৩ ঘণ্টা মাখিয়ে রাখবেন।
+-চাল এলাচি, দারুচিনি, গোলাপ জল দিয়ে আধা সেদ্ধ করুন।
+-ঘি দিয়ে পেঁয়াজ বেরেস্তা করে রাখুন।
+-মাখিয়ে রাখা মাংস রান্না করে নিন ৩০ মিনিট বা মাংস সেদ্ধ হওয়া পর্যন্ত।
+-ভাজা আলু, চাল, পেঁয়াজ, বেরেস্তা ও পুদিনা পাতা লেয়ার করে দিয়ে ঢেকে রাখুন ১০ / ১৫ মিনিট।
+-১৫ মিনিট পরে গরম-গরম পরিবেশন করুন।
+"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+    </ScrollView>
+
+</LinearLayout>

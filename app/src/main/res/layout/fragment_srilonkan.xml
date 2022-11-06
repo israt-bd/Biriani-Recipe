@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".kacchiFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/srilankan"
+        android:orientation="vertical">
+
+
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text=" শ্রীলঙ্কান বিরিয়ানি "
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        >
+
+    </TextView>
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="শ্রীলঙ্কান বিরিয়ানি বিরিয়ানি যেভাবে তৈরি করবেন-
+উপকরণঃ
+ভাতের জন্য:
+উদ্ভিজ্জ বা ঘি তেল ১০০ মিলি
+পেঁয়াজ, কাটা ২০০ গ্রাম
+রসুন, কাটা ২০ গ্রাম
+আদা, কাটা ১০ গ্রাম
+কারি পাতা ৫ গ্রাম
+র‌্যাম্প ৫ গ্রাম
+সবুজ মরিচ, কাটা ২৫ গ্রাম
+দারুচিনি স্টিক ৫ গ্রাম
+বাসমতি চাল, ২০ মিনিটের জন্য জলে ভিজিয়ে এক কেজি ড্রেন করুন
+নর বিরিয়ানি মিক্স [শুধুমাত্র শ্রীলঙ্কা] (২৪x৫০০গ্রাম) ৪০গ্রাম
+নর প্রফেশনাল চিকেন সিজনিং পাউডার [শুধুমাত্র শ্রীলঙ্কা] (৬কেজি) ৬০গ্রাম
+জল ১.৬০ গ্রাম l
+গার্নিশ এবং পরিবেশন:
+গার্নিশের জন্য:
+ধনিয়া পাতা, মোটা করে কাটা ৩০ গ্রাম
+পেঁয়াজ, কাটা এবং সোনার ৫০০ গ্রাম ভাজা
+টমেটো, ঘন ৪০০ গ্রাম
+
+ভাত প্রস্তুতি:
+একটি পুরু তলায় বা রাইস কুকারে তেল গরম করুন।
+পেঁয়াজ, রসুন, আদা, কারি পাতা, রাম্পে, সবুজ মরিচ, দারুচিনি এবং সুগন্ধি হওয়া পর্যন্ত ভাজুন।
+চাল, নোর চিকেন সিজনিং পাউডার, নোর বিরিয়ানি মিক্স, জল যোগ করুন এবং ভালভাবে রান্না করার অনুমতি দিন।
+গার্নিশ এবং পরিবেশন:
+অবশেষে কাটা ধনিয়া, টমেটো এবং ভাজা পেঁয়াজ ছিটিয়ে দিন; আস্তে আস্তে নাড়ুন এবং গরম পরিবেশন করুন।
+আপনার ভাজা বা ভাজা ভাজা মুরগির পছন্দ মতো পরিবেশন করুন।
+"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+    </ScrollView>
+
+</LinearLayout>

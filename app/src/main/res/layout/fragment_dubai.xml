@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".kacchiFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/dubai"
+        android:orientation="vertical">
+
+
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="                দুবাই বিরিয়ানি  "
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        >
+
+    </TextView>
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="দুবাই বিরিয়ানি যেভাবে তৈরি করবেন-
+প্রস্তুতি:
+রান্নার সময়: দেড় ঘন্টা
+পরিবেশন: ৬ জন
+উপকরণ:
+২ কেজি আস্ত মুরগি, ৮ টুকরো করে কাটা
+৮ কাপ জল
+২ শুকনো চুন
+২ কিউব MAGGI এর চিকেন স্টক
+২  কাপ বাসমতি চাল, ধুয়ে নিষ্কাশন
+২ চামচ। ঘি
+৩ টি মাঝারি পেঁয়াজ, কাটা
+১ কাপ বা ২৫০ গ্রাম তাজা দই
+ । প্রতিটি মশালির মধ্যে: কালো মরিচ, জিরা, ধনিয়া, হলুদ, এলাচি
+      এবং দারুচিনি গুঁড়া
+৩ রসুন লবঙ্গ, চূর্ণ
+১ চা চামচ. স্থল জাফরান, ১/৪কাপ গরম জলে ভিজিয়ে রাখা
+দিকনির্দেশ:
+একটি বড় পাত্রের মধ্যে মুরগির টুকরো এবং জল রাখুন, ফোঁড়ায় আনুন এবং ফুসকুড়ি দূর করুন। শুকনো চুন এবং MAGGI এর চিকেন স্টক কভার যোগ করুন এবং ৩০-৪০ মিনিটের জন্য বা চিকেন নরম না হওয়া পর্যন্ত কম আঁচে সিদ্ধ করুন।
+স্টক থেকে মুরগির টুকরা সরান, মুরগির স্টকে (প্রায় ৬ কাপ) চাল যোগ করুন এবং ১০ মিনিট বা প্রায় রান্না না হওয়া পর্যন্ত চাল সিদ্ধ করুন। চাল ঝরিয়ে একপাশে রাখুন।
+একটি বড় পাত্রে ঘি গরম করুন, পেঁয়াজ যোগ করুন এবং রান্না করুন, ৫-৭ মিনিট বা সোনালি বাদামী হওয়া পর্যন্ত নাড়ুন। পেঁয়াজে রান্না করা মুরগির টুকরোগুলি যোগ করুন এবং একত্রিত করতে নাড়ুন।
+মশলা এবং রসুনের সাথে দই মিশিয়ে মুরগির উপর ঢেলে দিন। হাঁড়িতে মুরগি রান্না করা চালের অর্ধেক পরিমাণ যোগ করুন।
+চালের উপর অর্ধেক পরিমাণ জাফরান পানি ছিটিয়ে দিন, বাকি চাল দিয়ে ঢেকে দিন এবং তারপর বাকি জাফরান পানি দিয়ে ছিটিয়ে দিন।
+২৫-৩০ মিনিট বা চাল সিদ্ধ না হওয়া পর্যন্ত কম আঁচে রান্না করুন।
+একটি বড় পরিবেশন ডিশে পরিবেশন করুন এবং ভাজা বাদাম দিয়ে সাজান।
+
+
+"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+
+        </TextView>
+    </ScrollView>
+
+</LinearLayout>

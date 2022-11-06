@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+       <HorizontalScrollView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#F5FFFA">
+
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#E56717"
+        android:onClick="kacchi"
+        android:text="কাচ্চি বিরিয়ানী"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="hydrabadi"
+        android:text="হায়দ্রাবাদী বিরিয়ানী">
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="dubai"
+        android:text= "দুবাই বিরিয়ানী"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="srilonkan"
+        android:text="শ্রীলঙ্কান বিরিয়ানি"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="thalesshori"
+        android:text="থালাশ্বেরী বিরিয়ানি "
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="mughlai"
+        android:text="মুঘলাই বিরিয়ানি"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="bombai"
+        android:text="বোম্বে বিরিয়ানি"
+        >
+
+    </Button>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:backgroundTint="#E56717"
+        android:onClick="barmidge"
+        android:text="বার্মিজ বিরিয়ানি"
+        >
+
+    </Button>
+
+
+
+
+
+</LinearLayout>
+
+       </HorizontalScrollView>
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+
+
+    </FrameLayout>
+
+</LinearLayout>
