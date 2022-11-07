@@ -1,4 +1,4 @@
-# Biriani-Recipe
+# Famous-Biryani-Recipe
 An informative android application about food receipe
 
 ![image](https://user-images.githubusercontent.com/117539976/200170595-4afc3d02-14c4-43f8-8209-a58e072a1f48.png)
